@@ -1,5 +1,5 @@
 //
-//  CCBoss.h
+//  CCMobFactory.h
 //  Pirate-Game
 //
 //  Created by McCawley on 7/8/14.
@@ -8,8 +8,6 @@
 
 #import <Foundation/Foundation.h>
 
-@interface CCBoss : NSObject
-
-@property (nonatomic) int health;
+@interface CCMobFactory : NSObject
 
 @end
